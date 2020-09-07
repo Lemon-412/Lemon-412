@@ -18,5 +18,5 @@
 
 
 
-<img src="/assets/shizuku.jpg" class="center">
+<img src="/assets/shizuku.jpg">
 
