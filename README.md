@@ -18,3 +18,5 @@
 
 
 
+<img src="/assets/shizuku.jpg" class="center">
+
