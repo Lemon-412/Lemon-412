@@ -18,9 +18,4 @@
 
 
 
-<<<<<<< HEAD
 <img src="https://s1.ax1x.com/2020/09/07/wKB5id.jpg">
-=======
-<img src="/assets/shizuku.jpg">
-
->>>>>>> 0c7940bfcb1bb94d242434e38269e46a3339055a
