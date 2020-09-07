@@ -18,5 +18,4 @@
 
 
 
-<img src="/assets/shizuku.jpg" class="center">
-
+<img src="https://s1.ax1x.com/2020/09/07/wKB5id.jpg">
