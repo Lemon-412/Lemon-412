@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Lemon-412/Lemon-412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This is Lemon-412, an undergraduate from [C.E.S. Shanghai University](https://cs.shu.edu.cn/).**
 
-Here are some ideas to get you started:
+![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=Lemon-412&show_icons=true&title_color=3ddbcf&icon_color=90da21&text_color=255085&bg_color=fff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+----
+
+
+
+**About Me:**
+
+- 👯  I'm still working hard to learn new stuffs. 
+- ⚡ To learn more about me, you may visit [my github page](https://lemon-412.github.io/).
+- 📫 Feel free to contact me via: lemon412 at foxmail.com
+
+
+
