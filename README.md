@@ -10,11 +10,11 @@
 
 
 
-**About Me:**
+**More About Me:**
 
-- 👯  I'm still working hard to learn new stuffs. 
-- ⚡ To learn more about me, you may visit [my github page](https://lemon-412.github.io/).
-- 📫 Feel free to contact me via: lemon412 at foxmail.com
+- 👯 I'm still working hard to learn new stuffs. 
+- ⚡ To learn more about me, please visit [my github page](https://lemon-412.github.io/).
+- 📫 Feel free to contact me via: lemon412 at foxmail dot com
 
 
 
