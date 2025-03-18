@@ -1,15 +1,16 @@
 ## Hi, This is Lemon 🍋
 
 ### 📌 Professional & Academic  
-- 🛠️ ​Currently working on AI infrastructure @Tencent Shanghai
+- 🛠️ ​Currently working on AI infrastructure **_@Tencent_** Shanghai
   - focusing on Training efficiency & inference acceleration of LLMs
   - Chasing (and occasionally catching) SOTA — even if only briefly 😏
-- 🎓 M.S. in AI @Fudan University | ​B.S. in CS @Shanghai University
+- 🎓 M.S. in AI **_@Fudan University_** | ​B.S. in CS **_@Shanghai University_**
 - 🌍 ​Passionate about contributing to the ​open-source community and building meaningful technical influence
 
 ### 🎈 Life Beyond
 - Pondering ​the **universe, life, and the art of code** - mostly in that order... 💭
-- Curating conversations with ​"interesting souls" — part-time human behavior observer.
+- Interested in global investment & home infra 💰💰💰
+- Curating conversations with ​"interesting souls" — part-time human behavior observer
 - Dreaming to ​**sip 10,000-year-old ice water** in Antarctica 🧊🚢
 
 `"Let's explore the planet's primal heartbeat!" 🌏`
